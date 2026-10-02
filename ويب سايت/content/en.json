@@ -1,0 +1,451 @@
+{
+  "nav": {
+    "about": "Sura",
+    "services": "Capabilities",
+    "network": "Network",
+    "markets": "Markets",
+    "partnerships": "Partnerships",
+    "contact": "Contact",
+    "cta": "Start a Conversation",
+    "focus": "Focus",
+    "engage": "Engage",
+    "syria": "Syria",
+    "projects": "Investment Opportunities",
+    "investors": "Investors",
+    "insights": "Insights"
+  },
+  "hero": {
+    "eyebrow": "SURA NEW INTERNATIONAL · SYRIA",
+    "title": "Building Businesses.<br><em>Creating Partnerships.</em><br>Developing Syria.",
+    "text": "A Syrian business and investment platform connecting local opportunity with international expertise, capital, partnerships and execution.",
+    "primary": "Discover Sura",
+    "secondary": "Explore Partnerships ↗",
+    "side": "A GLOBAL PLATFORM WITH LOCAL INTELLIGENCE",
+    "scroll": "Scroll to explore",
+    "presence": "Syria · Saudi Arabia · Sweden · Regional Markets"
+  },
+  "about": {
+    "kicker": "01 — WHO WE ARE",
+    "title": "A modern platform for <span>growth, execution and connection.</span>",
+    "lead": "Sura New International is a privately driven business development and investment platform built around one principle: strong opportunities become stronger when strategy, people, capital and execution move together.",
+    "text": "We work across development, engineering, construction, interiors, furniture, procurement and operations — while connecting local market knowledge with international capabilities and long-term partnerships.",
+    "link": "Explore our capabilities →",
+    "quote": "Think strategically. Build locally. Connect globally."
+  },
+  "services": {
+    "1": {
+      "title": "Business Development & Investment",
+      "text": "Opportunity identification, market entry, investment structures, commercial strategy and strategic growth."
+    },
+    "2": {
+      "title": "Project Development",
+      "text": "From concept definition and feasibility to development strategy, stakeholder alignment and delivery planning."
+    },
+    "3": {
+      "title": "Engineering & Construction",
+      "text": "General contracting, civil and structural works, building execution and engineering coordination."
+    },
+    "4": {
+      "title": "Interior Fit-Out",
+      "text": "Architectural finishes, joinery, specialist packages and integrated interior delivery."
+    },
+    "5": {
+      "title": "Furniture & FF&E",
+      "text": "Furniture sourcing, manufacturing coordination, supply, installation and complete FF&E packages."
+    },
+    "6": {
+      "title": "MEP & Building Services",
+      "text": "Mechanical, electrical, plumbing, firefighting, ELV, BMS and integrated building systems."
+    },
+    "7": {
+      "title": "Operations & Maintenance",
+      "text": "Facility management, technical maintenance, asset care, lifecycle planning and performance improvement."
+    },
+    "8": {
+      "title": "Procurement & Supply",
+      "text": "International sourcing, supplier coordination, logistics support and project procurement."
+    },
+    "kicker": "02 — WHAT WE DO",
+    "title": "From <em>opportunity</em> to operation.",
+    "intro": "A connected set of capabilities designed to support the full life cycle of an opportunity, project or business relationship."
+  },
+  "lifecycle": {
+    "1": "Opportunity",
+    "2": "Development",
+    "3": "Design & Engineering",
+    "4": "Procurement",
+    "5": "Construction",
+    "6": "MEP & Building Systems",
+    "7": "Interior Fit-Out",
+    "8": "Furniture & FF&E",
+    "9": "Testing & Commissioning",
+    "10": "Handover",
+    "11": "Operations & Maintenance",
+    "12": "Asset Optimization",
+    "kicker": "03 — THE FULL CYCLE",
+    "title": "One connected <em>journey.</em>",
+    "intro": "Integrated thinking reduces friction between disciplines and keeps the objective visible from the first conversation to long-term asset performance."
+  },
+  "network": {
+    "kicker": "04 — BUSINESS NETWORK",
+    "title": "Independent companies.<br><em>Shared strength.</em>",
+    "intro": "Sura New International works with a network of independent companies whose complementary capabilities can be brought together when an opportunity calls for broader execution capacity.",
+    "company1": {
+      "tag": "CONTRACTING · SAUDI ARABIA",
+      "name": "Rimal Al-Bayda Contracting Company",
+      "text": "General contracting, civil works, building works, project execution, engineering coordination and related construction activities."
+    },
+    "company2": {
+      "tag": "CONTRACTING · SAUDI ARABIA",
+      "name": "Al-Shamikhon Contracting Company",
+      "text": "General contracting, civil and structural works, building projects, engineering coordination and project execution."
+    },
+    "note": "The network can expand through carefully selected strategic partners, manufacturers, specialists and investors — without compromising independence or accountability."
+  },
+  "markets": {
+    "kicker": "05 — WHERE WE OPERATE",
+    "title": "Syria — Our Home Market.<br><em>Connected to the world.</em>",
+    "intro": "Sura New International is rooted in Syria and connects local opportunity with regional and international relationships, expertise and capital.",
+    "sa": "Saudi Arabia",
+    "sy": "Syria",
+    "se": "Sweden",
+    "eu": "Regional & International Markets",
+    "caption": "CONNECTED BY RELATIONSHIPS",
+    "saText": "A key regional market through our independent sister companies, supporting contracting, construction, engineering coordination, interiors, supply and asset services.",
+    "syText": "Our home market, approached with a long-term view across investment, development, construction, manufacturing, hospitality, food and agriculture, infrastructure and strategic partnerships.",
+    "euText": "Regional and European relationships supporting sourcing, manufacturing, engineering, investment and strategic cooperation."
+  },
+  "partners": {
+    "1": "Joint Ventures",
+    "2": "Strategic Partnerships",
+    "3": "Market Entry",
+    "4": "Investment",
+    "5": "Manufacturing & Technology",
+    "6": "Engineering & Construction",
+    "7": "Procurement & Supply",
+    "8": "Operations & Maintenance",
+    "kicker": "06 — INTERNATIONAL PARTNERSHIPS",
+    "title": "The right partner can change the <em>scale</em> of an opportunity.",
+    "text": "We build relationships around a clear commercial purpose — market entry, investment, manufacturing, technology, engineering, construction, procurement or long-term operations.",
+    "cta": "Discuss an Opportunity"
+  },
+  "ops": {
+    "1": "Facility Management",
+    "2": "HVAC",
+    "3": "Electrical",
+    "4": "Plumbing",
+    "5": "Fire & Life Safety",
+    "6": "ELV & BMS",
+    "7": "Civil & Architectural Maintenance",
+    "8": "Asset Management",
+    "9": "Energy Efficiency",
+    "10": "Lifecycle Planning",
+    "kicker": "07 — OPERATIONS & MAINTENANCE",
+    "title": "Build well.<br><em>Operate better.</em>",
+    "lead": "The value of an asset continues after handover. Our operations perspective brings technical care, lifecycle planning and practical performance thinking into the long-term picture."
+  },
+  "values": {
+    "1": {
+      "title": "Clarity",
+      "text": "We define the objective before we define the solution."
+    },
+    "2": {
+      "title": "Integrity",
+      "text": "Trust is a business asset. We protect it through transparent decisions and accountable execution."
+    },
+    "3": {
+      "title": "Excellence",
+      "text": "We pursue quality in thinking, coordination, delivery and long-term performance."
+    },
+    "4": {
+      "title": "Partnership",
+      "text": "We prefer relationships built for mutual value rather than short-term transactions."
+    },
+    "kicker": "08 — OUR VALUES"
+  },
+  "lead": {
+    "kicker": "09 — LEADERSHIP & CONTACT",
+    "title": "People who connect <em>markets and execution.</em>",
+    "text": "A practical leadership structure supported by regional relationships and an international perspective."
+  },
+  "contact": {
+    "kicker": "10 — START A CONVERSATION",
+    "title": "Have an opportunity?<br><em>Let’s build what comes next.</em>",
+    "text": "Tell us what you are building, where you are going, or the capability you are looking for. We will connect the right people around the opportunity."
+  },
+  "form": {
+    "name": "Name",
+    "email": "Email",
+    "company": "Company",
+    "message": "Tell us about your opportunity",
+    "submit": "Send Enquiry",
+    "note": "This form is ready to connect to your preferred email, CRM or website backend."
+  },
+  "footer": {
+    "tag": "Building Businesses. Creating Partnerships. Developing Markets.",
+    "explore": "Explore",
+    "connect": "Connect",
+    "operations": "Operations & Maintenance",
+    "rights": "All rights reserved.",
+    "locations": "Saudi Arabia · Syria · Sweden"
+  },
+  "edge": {
+    "kicker": "02 — THE SURA EDGE",
+    "title": "Built for <em>complex opportunities.</em>",
+    "intro": "We bring together commercial thinking, delivery capability and international connectivity — so decisions can move from strategy to execution with clarity.",
+    "1": {
+      "title": "Strategic Thinking",
+      "text": "We begin with the opportunity, the market and the commercial objective — not with a predefined service."
+    },
+    "2": {
+      "title": "Execution Depth",
+      "text": "Development, engineering, construction, interiors, supply and operations can connect around one objective."
+    },
+    "3": {
+      "title": "Cross-Border Access",
+      "text": "Local market intelligence is strengthened by relationships across regional and European markets."
+    },
+    "4": {
+      "title": "Long-Term Value",
+      "text": "We look beyond handover toward operating performance, asset care, relationships and sustainable growth."
+    }
+  },
+  "model": {
+    "kicker": "04 — HOW WE PARTNER",
+    "title": "A clear framework for <em>international cooperation.</em>",
+    "text": "Every partnership starts with a defined objective, a credible operating model and a shared view of value creation.",
+    "cta": "Open a strategic conversation",
+    "1": {
+      "title": "Understand",
+      "text": "Market, opportunity, capability and strategic fit."
+    },
+    "2": {
+      "title": "Structure",
+      "text": "Commercial model, responsibilities, governance and route to market."
+    },
+    "3": {
+      "title": "Execute",
+      "text": "Mobilise the right companies, specialists, suppliers and decision-makers."
+    },
+    "4": {
+      "title": "Grow",
+      "text": "Build repeatable relationships, operating platforms and long-term value."
+    }
+  },
+  "ribbon": {
+    "1": "Strategy",
+    "2": "Development",
+    "3": "Delivery",
+    "4": "Operations"
+  },
+  "audiences": {
+    "kicker": "02 — WHO WE WORK WITH",
+    "title": "A platform built around <em>relationships that move.</em>",
+    "intro": "We work with decision-makers who need more than a supplier — they need a partner able to connect opportunity, local execution and international capability.",
+    "1": {
+      "title": "Investors & Owners",
+      "text": "Market intelligence, development support, local execution and strategic pathways for investment opportunities."
+    },
+    "2": {
+      "title": "Developers",
+      "text": "Integrated development, engineering, procurement, construction, interiors and operational readiness."
+    },
+    "3": {
+      "title": "International Partners",
+      "text": "Market entry, joint ventures, manufacturing, technology transfer and regional growth partnerships."
+    },
+    "4": {
+      "title": "Operators & Institutions",
+      "text": "Facility operations, technical services, asset care and lifecycle-focused support."
+    }
+  },
+  "pathways": {
+    "kicker": "10 — START A CONVERSATION",
+    "title": "Different objectives.<br><em>One connected platform.</em>",
+    "intro": "Choose the conversation that matches your opportunity. We will route the enquiry to the right capability and market.",
+    "1": {
+      "title": "Investment & Market Entry",
+      "text": "Explore opportunities, local market access and strategic investment structures."
+    },
+    "2": {
+      "title": "Projects & Development",
+      "text": "Discuss development, engineering, construction, interiors, procurement or delivery."
+    },
+    "3": {
+      "title": "Strategic Partnerships",
+      "text": "Connect with us for joint ventures, manufacturing, technology or regional expansion."
+    }
+  },
+  "why": {
+    "kicker": "03 — WHY SURA",
+    "title": "A clear advantage for building <em>lasting value.</em>",
+    "intro": "We combine local market understanding, execution capability and international relationships, structuring every engagement around a clear commercial objective.",
+    "items": [
+      [
+        "01",
+        "Local Intelligence",
+        "We start with the market and local operating environment, grounding decisions in practical understanding."
+      ],
+      [
+        "02",
+        "Execution Capability",
+        "We turn strategy into development, engineering, delivery, procurement and operations through the right capabilities."
+      ],
+      [
+        "03",
+        "International Connectivity",
+        "We connect Syrian opportunities with regional and international partners, expertise, suppliers and markets."
+      ],
+      [
+        "04",
+        "Long-Term Partnerships",
+        "We build relationships designed to grow, with clear roles, mutual value and trust."
+      ]
+    ]
+  },
+  "syria": {
+    "kicker": "04 — SYRIA · OUR HOME MARKET",
+    "title": "Starting in Syria, <em>building toward the world.</em>",
+    "intro": "We see Syria as our home market and a long-term platform for development, reconstruction, construction, industry and services. Our role is to connect local opportunities with the right capabilities and partnerships.",
+    "items": [
+      [
+        "01",
+        "Real Estate & Development",
+        "Residential, commercial, hospitality and mixed-use development opportunities."
+      ],
+      [
+        "02",
+        "Infrastructure",
+        "Infrastructure, utilities, civil works and essential services."
+      ],
+      [
+        "03",
+        "Hospitality & Tourism",
+        "Hotels, resorts, hospitality projects and integrated guest experiences."
+      ],
+      [
+        "04",
+        "Industry & Manufacturing",
+        "Industrial projects, manufacturing, supply and technology transfer."
+      ],
+      [
+        "05",
+        "Food & Agriculture",
+        "Food and agricultural value chains, production and processing opportunities."
+      ],
+      [
+        "06",
+        "Energy & Utilities",
+        "Energy, utilities and technical infrastructure with long-term impact."
+      ],
+      [
+        "07",
+        "Commercial Projects",
+        "Retail, offices, business destinations and development opportunities."
+      ],
+      [
+        "08",
+        "Investment & Partnerships",
+        "Market entry, joint ventures, investment and strategic partnerships."
+      ]
+    ]
+  },
+  "process": {
+    "kicker": "05 — HOW WE WORK",
+    "title": "From <em>opportunity</em> to value.",
+    "intro": "A clear approach that helps investors, partners and project owners move from an idea to execution with disciplined decisions and defined responsibilities.",
+    "items": [
+      [
+        "01",
+        "Identify",
+        "Define the opportunity, market and commercial objective."
+      ],
+      [
+        "02",
+        "Assess",
+        "Evaluate feasibility, risks and the capabilities required."
+      ],
+      [
+        "03",
+        "Structure",
+        "Design the partnership model, responsibilities and delivery framework."
+      ],
+      [
+        "04",
+        "Develop",
+        "Turn the opportunity into a project or scalable business platform."
+      ],
+      [
+        "05",
+        "Execute",
+        "Mobilize the right companies, specialists, suppliers and resources."
+      ],
+      [
+        "06",
+        "Grow",
+        "Build repeatable relationships, scalable operations and long-term value."
+      ]
+    ]
+  },
+  "investors": {
+    "kicker": "06 — INVESTMENT OPPORTUNITIES",
+    "title": "Opportunities with <em>room to grow.</em>",
+    "intro": "A focused entry point for investors, owners and strategic partners exploring the Syrian market, new projects, joint ventures or scalable business platforms.",
+    "cards": [
+      [
+        "01",
+        "Investment & Market Entry",
+        "Explore opportunities, local access, suitable structures and clear partnership models."
+      ],
+      [
+        "02",
+        "Project Development",
+        "Support development, engineering, procurement and delivery for new or existing projects."
+      ],
+      [
+        "03",
+        "Joint Ventures",
+        "Build JV and operating relationships between complementary organizations."
+      ],
+      [
+        "04",
+        "Manufacturing & Technology",
+        "Connect manufacturers and technology providers with local opportunities and partners."
+      ]
+    ]
+  },
+  "projects": {
+    "kicker": "07 — PROJECTS & OPPORTUNITIES",
+    "title": "Turning opportunities into <em>scalable projects.</em>",
+    "intro": "This section will evolve into a digital portfolio of selected projects and investment opportunities, showing sector, stage and potential scope of collaboration.",
+    "status": "Coming soon — approved projects and opportunities will be added progressively.",
+    "cta": "Discuss an opportunity →"
+  },
+  "leadership": {
+    "mohammadSyria": "Syria · +963 944 400 453"
+  },
+  "insights": {
+    "kicker": "08 — SURA INSIGHTS",
+    "title": "Perspective before <em>action.</em>",
+    "intro": "A developing library of market perspectives, investment thinking and execution insights. Published selectively as our research and opportunities mature.",
+    "cards": [
+      [
+        "01",
+        "Syria Market Perspectives",
+        "Market context, sector signals and practical observations for investors and partners."
+      ],
+      [
+        "02",
+        "Investment & Partnerships",
+        "Thinking around market entry, partnership structures, joint ventures and value creation."
+      ],
+      [
+        "03",
+        "Development & Execution",
+        "Insights from development, engineering, procurement, construction and operations."
+      ]
+    ],
+    "status": "Insights and reports will be published progressively.",
+    "cta": "Discuss a topic"
+  }
+}

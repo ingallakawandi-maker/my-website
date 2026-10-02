@@ -1,0 +1,31 @@
+{
+  "siteName": "Sura New International",
+  "domain": "https://sura-newinternational.com",
+  "generalEmail": "info@sura-newinternational.com",
+  "leadership": [
+    {
+      "name": "Eng. Yassin Al-Qadri",
+      "role": "General Manager",
+      "email": "yaseen@sura-newinternational.com",
+      "phoneSaudi": "+966 50 319 7418",
+      "phoneSyriaPrevious": "+963 988 543 805"
+    },
+    {
+      "name": "Mohammad Alassrawi",
+      "role": "CEO – Sweden",
+      "email": "mohammad@sura-newinternational.com",
+      "phoneSweden": "+46 765 775 230",
+      "phoneSyria": "+963 988 543 805",
+      "address": "Hantverksgatan 22B, Älmhult, Sweden"
+    }
+  ],
+  "locations": [
+    "Riyadh, Saudi Arabia",
+    "Damascus, Syria",
+    "Älmhult, Sweden"
+  ],
+  "syriaOffice": {
+    "phone": "+963 11 512 6713",
+    "address": "Syria Damascus Building No. 14, Property No. 227, 9th Phase; Barzeh Highway Street, Opposite Al-Sham Military Hospital (Formerly Hamish)"
+  }
+}

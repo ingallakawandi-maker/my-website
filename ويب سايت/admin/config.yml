@@ -1,0 +1,81 @@
+backend:
+  name: git-gateway
+  branch: main
+
+local_backend: true
+
+media_folder: "assets/uploads"
+public_folder: "/assets/uploads"
+
+site_url: https://www.sura-newinternational.com
+logo_url: /assets/sura-logo-site.png
+
+collections:
+  - name: "language_content"
+    label: "Website Languages"
+    files:
+      - label: "Arabic — العربية 🇸🇾"
+        name: "ar"
+        file: "content/ar.json"
+        fields: &content_fields
+          - {label: "Navigation", name: "nav", widget: "object", fields:
+              [ {label: "About", name: "about", widget: "string"}, {label: "Capabilities", name: "services", widget: "string"}, {label: "Network", name: "network", widget: "string"}, {label: "Markets", name: "markets", widget: "string"}, {label: "Partnerships", name: "partnerships", widget: "string"}, {label: "Contact", name: "contact", widget: "string"}, {label: "CTA", name: "cta", widget: "string"} ]}
+          - {label: "Hero", name: "hero", widget: "object", fields:
+              [ {label: "Eyebrow", name: "eyebrow", widget: "string"}, {label: "Title", name: "title", widget: "text"}, {label: "Text", name: "text", widget: "text"}, {label: "Primary Button", name: "primary", widget: "string"}, {label: "Secondary Button", name: "secondary", widget: "string"}, {label: "Side Label", name: "side", widget: "string"}, {label: "Scroll Label", name: "scroll", widget: "string"}, {label: "Presence", name: "presence", widget: "string"} ]}
+          - {label: "About", name: "about", widget: "object", fields:
+              [ {label: "Kicker", name: "kicker", widget: "string"}, {label: "Title", name: "title", widget: "text"}, {label: "Lead", name: "lead", widget: "text"}, {label: "Text", name: "text", widget: "text"}, {label: "Link", name: "link", widget: "string"}, {label: "Quote", name: "quote", widget: "string"} ]}
+          - {label: "Services", name: "services", widget: "object", fields:
+              [ {label: "Kicker", name: "kicker", widget: "string"}, {label: "Title", name: "title", widget: "text"}, {label: "Intro", name: "intro", widget: "text"}, {label: "Service 1", name: "1", widget: "object", fields: [{label: "Title", name: "title", widget: "string"},{label: "Text", name: "text", widget: "text"}]}, {label: "Service 2", name: "2", widget: "object", fields: [{label: "Title", name: "title", widget: "string"},{label: "Text", name: "text", widget: "text"}]}, {label: "Service 3", name: "3", widget: "object", fields: [{label: "Title", name: "title", widget: "string"},{label: "Text", name: "text", widget: "text"}]}, {label: "Service 4", name: "4", widget: "object", fields: [{label: "Title", name: "title", widget: "string"},{label: "Text", name: "text", widget: "text"}]}, {label: "Service 5", name: "5", widget: "object", fields: [{label: "Title", name: "title", widget: "string"},{label: "Text", name: "text", widget: "text"}]}, {label: "Service 6", name: "6", widget: "object", fields: [{label: "Title", name: "title", widget: "string"},{label: "Text", name: "text", widget: "text"}]}, {label: "Service 7", name: "7", widget: "object", fields: [{label: "Title", name: "title", widget: "string"},{label: "Text", name: "text", widget: "text"}]}, {label: "Service 8", name: "8", widget: "object", fields: [{label: "Title", name: "title", widget: "string"},{label: "Text", name: "text", widget: "text"}]}
+            ]}
+          - {label: "Lifecycle", name: "lifecycle", widget: "object", fields: [ {label: "Kicker", name: "kicker", widget: "string"}, {label: "Title", name: "title", widget: "text"}, {label: "Intro", name: "intro", widget: "text"} ]}
+          - {label: "Network", name: "network", widget: "object", fields: [ {label: "Kicker", name: "kicker", widget: "string"}, {label: "Title", name: "title", widget: "text"}, {label: "Intro", name: "intro", widget: "text"}, {label: "Network Note", name: "note", widget: "text"}, {label: "Company 1", name: "company1", widget: "object", fields: [{label: "Tag", name: "tag", widget: "string"},{label: "Name", name: "name", widget: "string"},{label: "Text", name: "text", widget: "text"}]}, {label: "Company 2", name: "company2", widget: "object", fields: [{label: "Tag", name: "tag", widget: "string"},{label: "Name", name: "name", widget: "string"},{label: "Text", name: "text", widget: "text"}]} ]}
+          - {label: "Markets", name: "markets", widget: "object", fields: [ {label: "Kicker", name: "kicker", widget: "string"}, {label: "Title", name: "title", widget: "text"}, {label: "Intro", name: "intro", widget: "text"}, {label: "Saudi Arabia", name: "sa", widget: "string"}, {label: "Syria", name: "sy", widget: "string"}, {label: "Sweden", name: "se", widget: "string"}, {label: "Regional", name: "eu", widget: "string"}, {label: "Caption", name: "caption", widget: "string"}, {label: "Saudi Text", name: "saText", widget: "text"}, {label: "Syria Text", name: "syText", widget: "text"}, {label: "Europe Text", name: "euText", widget: "text"} ]}
+          - {label: "Partnerships", name: "partners", widget: "object", fields: [ {label: "Kicker", name: "kicker", widget: "string"}, {label: "Title", name: "title", widget: "text"}, {label: "Text", name: "text", widget: "text"}, {label: "CTA", name: "cta", widget: "string"} ]}
+          - {label: "Operations", name: "ops", widget: "object", fields: [ {label: "Kicker", name: "kicker", widget: "string"}, {label: "Title", name: "title", widget: "text"}, {label: "Lead", name: "lead", widget: "text"} ]}
+          - {label: "Values", name: "values", widget: "object", fields: [ {label: "Kicker", name: "kicker", widget: "string"}, {label: "Value 1", name: "1", widget: "object", fields: [{label: "Title", name: "title", widget: "string"},{label: "Text", name: "text", widget: "text"}]}, {label: "Value 2", name: "2", widget: "object", fields: [{label: "Title", name: "title", widget: "string"},{label: "Text", name: "text", widget: "text"}]}, {label: "Value 3", name: "3", widget: "object", fields: [{label: "Title", name: "title", widget: "string"},{label: "Text", name: "text", widget: "text"}]}, {label: "Value 4", name: "4", widget: "object", fields: [{label: "Title", name: "title", widget: "string"},{label: "Text", name: "text", widget: "text"}]} ]}
+          - {label: "Investment Opportunities", name: "investors", widget: "object", fields: [ {label: "Kicker", name: "kicker", widget: "string"}, {label: "Title", name: "title", widget: "text"}, {label: "Intro", name: "intro", widget: "text"}, {label: "Opportunity Cards", name: "cards", widget: "list", fields: [{label: "Number", name: "number", widget: "string"},{label: "Title", name: "title", widget: "string"},{label: "Text", name: "text", widget: "text"}]} ]}
+          - {label: "Projects & Portfolio", name: "projects", widget: "object", fields: [ {label: "Kicker", name: "kicker", widget: "string"}, {label: "Title", name: "title", widget: "text"}, {label: "Intro", name: "intro", widget: "text"}, {label: "Status", name: "status", widget: "text"}, {label: "CTA", name: "cta", widget: "string"} ]}
+          - {label: "Sura Insights", name: "insights", widget: "object", fields: [ {label: "Kicker", name: "kicker", widget: "string"}, {label: "Title", name: "title", widget: "text"}, {label: "Intro", name: "intro", widget: "text"}, {label: "Insight Cards", name: "cards", widget: "list", fields: [{label: "Number", name: "number", widget: "string"},{label: "Title", name: "title", widget: "string"},{label: "Text", name: "text", widget: "text"}]}, {label: "Status", name: "status", widget: "text"}, {label: "CTA", name: "cta", widget: "string"} ]}
+          - {label: "Leadership", name: "lead", widget: "object", fields: [ {label: "Kicker", name: "kicker", widget: "string"}, {label: "Title", name: "title", widget: "text"}, {label: "Text", name: "text", widget: "text"} ]}
+          - {label: "Contact", name: "contact", widget: "object", fields: [ {label: "Kicker", name: "kicker", widget: "string"}, {label: "Title", name: "title", widget: "text"}, {label: "Text", name: "text", widget: "text"} ]}
+          - {label: "Form", name: "form", widget: "object", fields: [ {label: "Name", name: "name", widget: "string"}, {label: "Email", name: "email", widget: "string"}, {label: "Company", name: "company", widget: "string"}, {label: "Message", name: "message", widget: "string"}, {label: "Submit", name: "submit", widget: "string"}, {label: "Note", name: "note", widget: "text"} ]}
+          - {label: "Footer", name: "footer", widget: "object", fields: [ {label: "Tag", name: "tag", widget: "string"}, {label: "Explore", name: "explore", widget: "string"}, {label: "Connect", name: "connect", widget: "string"}, {label: "Operations", name: "operations", widget: "string"}, {label: "Rights", name: "rights", widget: "string"}, {label: "Locations", name: "locations", widget: "string"} ]}
+      - label: "English — English 🇬🇧"
+        name: "en"
+        file: "content/en.json"
+        fields: *content_fields
+      - label: "French — Français 🇫🇷"
+        name: "fr"
+        file: "content/fr.json"
+        fields: *content_fields
+      - label: "Italian — Italiano 🇮🇹"
+        name: "it"
+        file: "content/it.json"
+        fields: *content_fields
+      - label: "German — Deutsch 🇩🇪"
+        name: "de"
+        file: "content/de.json"
+        fields: *content_fields
+
+  - name: "site_settings"
+    label: "Site Settings"
+    files:
+      - label: "General Settings"
+        name: "general"
+        file: "site-config.json"
+        fields:
+          - {label: "Site Name", name: "siteName", widget: "string"}
+          - {label: "Domain", name: "domain", widget: "string"}
+          - {label: "General Email", name: "generalEmail", widget: "string"}
+          - {label: "Locations", name: "locations", widget: "list"}
+          - label: "Leadership"
+            name: "leadership"
+            widget: "list"
+            fields:
+              - {label: "Name", name: "name", widget: "string"}
+              - {label: "Role", name: "role", widget: "string"}
+              - {label: "Email", name: "email", widget: "string"}
+              - {label: "Saudi Phone", name: "phoneSaudi", widget: "string", required: false}
+              - {label: "Syria Phone", name: "phoneSyria", widget: "string", required: false}
+              - {label: "Sweden Phone", name: "phoneSweden", widget: "string", required: false}
+              - {label: "Address", name: "address", widget: "string", required: false}

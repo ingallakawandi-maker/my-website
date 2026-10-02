@@ -1,0 +1,451 @@
+{
+  "nav": {
+    "about": "Sura",
+    "services": "Compétences",
+    "network": "Réseau",
+    "markets": "Marchés",
+    "partnerships": "Partenariats",
+    "contact": "Contact",
+    "cta": "Parlons-en",
+    "focus": "Focus",
+    "engage": "Échanger",
+    "syria": "Syrie",
+    "projects": "Opportunités d’investissement",
+    "investors": "Investisseurs",
+    "insights": "Perspectives"
+  },
+  "hero": {
+    "eyebrow": "SURA NEW INTERNATIONAL · SYRIE",
+    "title": "Construire des entreprises.<br><em>Créer des partenariats.</em><br>Développer la Syrie.",
+    "text": "Une plateforme syrienne d’affaires et d’investissement qui relie les opportunités locales à l’expertise, aux capitaux, aux partenariats et à l’exécution internationale.",
+    "primary": "Découvrir Sura",
+    "secondary": "Explorer les partenariats ↗",
+    "side": "UNE PLATEFORME MONDIALE À INTELLIGENCE LOCALE",
+    "scroll": "Découvrir",
+    "presence": "Syrie · Arabie saoudite · Suède · Marchés régionaux"
+  },
+  "about": {
+    "kicker": "01 — QUI SOMMES-NOUS",
+    "title": "Une plateforme moderne pour <span>la croissance, l’exécution et la connexion.</span>",
+    "lead": "Sura New International est une plateforme privée de développement commercial et d’investissement fondée sur un principe : les bonnes opportunités deviennent plus fortes lorsque stratégie, talents, capital et exécution avancent ensemble.",
+    "text": "Nous intervenons dans le développement, l’ingénierie, la construction, l’aménagement intérieur, le mobilier, les achats et l’exploitation, en reliant connaissance locale et capacités internationales.",
+    "link": "Découvrir nos capacités →",
+    "quote": "Penser stratégiquement. Construire localement. Se connecter globalement."
+  },
+  "services": {
+    "1": {
+      "title": "Développement commercial & investissement",
+      "text": "Identification d’opportunités, entrée sur les marchés, structures d’investissement et stratégie commerciale."
+    },
+    "2": {
+      "title": "Développement de projets",
+      "text": "De la définition du concept à la stratégie de développement et à la planification de l’exécution."
+    },
+    "3": {
+      "title": "Ingénierie & construction",
+      "text": "Contracting général, travaux civils et structurels, exécution des bâtiments et coordination."
+    },
+    "4": {
+      "title": "Aménagement intérieur",
+      "text": "Finitions architecturales, menuiserie, lots spécialisés et réalisation intégrée."
+    },
+    "5": {
+      "title": "Mobilier & FF&E",
+      "text": "Sourcing, coordination de fabrication, fourniture, installation et packages FF&E."
+    },
+    "6": {
+      "title": "MEP & services du bâtiment",
+      "text": "Mécanique, électricité, plomberie, incendie, ELV, BMS et systèmes intégrés."
+    },
+    "7": {
+      "title": "Exploitation & maintenance",
+      "text": "Facility management, maintenance technique, gestion des actifs et planification du cycle de vie."
+    },
+    "8": {
+      "title": "Achats & approvisionnement",
+      "text": "Sourcing international, coordination fournisseurs, logistique et achats de projets."
+    },
+    "kicker": "02 — NOS ACTIVITÉS",
+    "title": "De <em>l’opportunité</em> à l’exploitation.",
+    "intro": "Des capacités complémentaires pour accompagner tout le cycle de vie d’une opportunité, d’un projet ou d’une relation commerciale."
+  },
+  "lifecycle": {
+    "1": "Opportunité",
+    "2": "Développement",
+    "3": "Conception & ingénierie",
+    "4": "Achats",
+    "5": "Construction",
+    "6": "MEP & systèmes",
+    "7": "Aménagement intérieur",
+    "8": "Mobilier & FF&E",
+    "9": "Tests & mise en service",
+    "10": "Réception",
+    "11": "Exploitation & maintenance",
+    "12": "Optimisation des actifs",
+    "kicker": "03 — CYCLE COMPLET",
+    "title": "Un parcours <em>connecté.</em>",
+    "intro": "Une approche intégrée réduit les interfaces et garde l’objectif visible, du premier échange à la performance de l’actif."
+  },
+  "network": {
+    "kicker": "04 — RÉSEAU D’ENTREPRISES",
+    "title": "Des entreprises indépendantes.<br><em>Une force partagée.</em>",
+    "intro": "Sura New International travaille avec un réseau d’entreprises indépendantes aux capacités complémentaires, réunies lorsque l’opportunité exige une capacité d’exécution élargie.",
+    "company1": {
+      "tag": "CONSTRUCTION · ARABIE SAOUDITE",
+      "name": "Rimal Al-Bayda Contracting Company",
+      "text": "Contracting général, travaux civils, bâtiments, exécution de projets et coordination d’ingénierie."
+    },
+    "company2": {
+      "tag": "CONSTRUCTION · ARABIE SAOUDITE",
+      "name": "Al-Shamikhon Contracting Company",
+      "text": "Contracting général, travaux civils et structurels, projets de bâtiments et coordination d’ingénierie."
+    },
+    "note": "Le réseau peut s’élargir grâce à des partenaires, fabricants, spécialistes et investisseurs sélectionnés avec soin."
+  },
+  "markets": {
+    "kicker": "05 — NOS MARCHÉS",
+    "title": "La Syrie — <em>notre marché d’origine.</em><br>Connecté au monde.",
+    "intro": "Sura New International est ancrée en Syrie et relie les opportunités locales aux relations, expertises et capitaux régionaux et internationaux.",
+    "sa": "Arabie saoudite",
+    "sy": "Syrie",
+    "se": "Suède",
+    "eu": "Marchés régionaux et internationaux",
+    "caption": "CONNECTÉS PAR LES RELATIONS",
+    "saText": "Un marché régional clé à travers nos sociétés sœurs indépendantes, avec des capacités en construction, ingénierie, aménagement, approvisionnement et services aux actifs.",
+    "syText": "Notre marché d’origine, envisagé à long terme dans l’investissement, le développement, la construction, l’industrie, l’hôtellerie, l’agroalimentaire, les infrastructures et les partenariats stratégiques.",
+    "euText": "Des relations régionales et européennes pour l’approvisionnement, la fabrication, l’ingénierie, l’investissement et la coopération stratégique."
+  },
+  "partners": {
+    "1": "Joint-ventures",
+    "2": "Partenariats stratégiques",
+    "3": "Entrée de marché",
+    "4": "Investissement",
+    "5": "Fabrication & technologie",
+    "6": "Ingénierie & construction",
+    "7": "Achats & approvisionnement",
+    "8": "Exploitation & maintenance",
+    "kicker": "06 — PARTENARIATS INTERNATIONAUX",
+    "title": "Le bon partenaire peut changer <em>l’échelle</em> d’une opportunité.",
+    "text": "Nous structurons les relations autour d’un objectif commercial clair : entrée de marché, investissement, fabrication, technologie, ingénierie, construction, achats ou exploitation.",
+    "cta": "Parler d’une opportunité"
+  },
+  "ops": {
+    "1": "Facility Management",
+    "2": "HVAC",
+    "3": "Électricité",
+    "4": "Plomberie",
+    "5": "Sécurité incendie",
+    "6": "ELV & BMS",
+    "7": "Maintenance civile & architecturale",
+    "8": "Gestion des actifs",
+    "9": "Efficacité énergétique",
+    "10": "Planification du cycle de vie",
+    "kicker": "07 — EXPLOITATION & MAINTENANCE",
+    "title": "Bien construire.<br><em>Mieux exploiter.</em>",
+    "lead": "La valeur d’un actif continue après la réception. Notre approche intègre maintenance technique, cycle de vie et performance à long terme."
+  },
+  "values": {
+    "1": {
+      "title": "Clarté",
+      "text": "Nous définissons l’objectif avant la solution."
+    },
+    "2": {
+      "title": "Intégrité",
+      "text": "La confiance est un actif commercial protégé par la transparence et la responsabilité."
+    },
+    "3": {
+      "title": "Excellence",
+      "text": "Nous recherchons la qualité dans la réflexion, la coordination et l’exécution."
+    },
+    "4": {
+      "title": "Partenariat",
+      "text": "Nous privilégions les relations fondées sur la valeur mutuelle."
+    },
+    "kicker": "08 — NOS VALEURS"
+  },
+  "lead": {
+    "kicker": "09 — DIRECTION & CONTACT",
+    "title": "Des personnes qui relient <em>marchés et exécution.</em>",
+    "text": "Une structure de direction pratique, soutenue par des relations régionales et une perspective internationale."
+  },
+  "contact": {
+    "kicker": "10 — PARLONS-EN",
+    "title": "Une opportunité ?<br><em>Construisons la suite.</em>",
+    "text": "Présentez-nous votre projet, votre ambition ou la capacité recherchée. Nous réunirons les bonnes compétences autour de l’opportunité."
+  },
+  "form": {
+    "name": "Nom",
+    "email": "E-mail",
+    "company": "Entreprise",
+    "message": "Parlez-nous de votre opportunité",
+    "submit": "Envoyer",
+    "note": "Ce formulaire peut être connecté à votre e-mail, CRM ou backend."
+  },
+  "footer": {
+    "tag": "Construire des entreprises. Créer des partenariats. Développer les marchés.",
+    "explore": "Explorer",
+    "connect": "Connecter",
+    "operations": "Exploitation & maintenance",
+    "rights": "Tous droits réservés.",
+    "locations": "Arabie saoudite · Syrie · Suède"
+  },
+  "edge": {
+    "kicker": "02 — L’AVANTAGE SURA",
+    "title": "Conçue pour les <em>opportunités complexes.</em>",
+    "intro": "Nous réunissons vision commerciale, capacité d’exécution et connexions internationales afin de transformer clairement la stratégie en action.",
+    "1": {
+      "title": "Pensée stratégique",
+      "text": "Nous partons de l’opportunité, du marché et de l’objectif commercial — pas d’un service prédéfini."
+    },
+    "2": {
+      "title": "Profondeur d’exécution",
+      "text": "Développement, ingénierie, construction, aménagement, approvisionnement et opérations peuvent converger autour d’un même objectif."
+    },
+    "3": {
+      "title": "Accès transfrontalier",
+      "text": "La connaissance locale est renforcée par des relations régionales et européennes."
+    },
+    "4": {
+      "title": "Valeur durable",
+      "text": "Nous regardons au-delà de la livraison vers la performance des actifs, les relations et la croissance durable."
+    }
+  },
+  "model": {
+    "kicker": "04 — NOTRE MODE DE PARTENARIAT",
+    "title": "Un cadre clair pour la <em>coopération internationale.</em>",
+    "text": "Chaque partenariat commence par un objectif défini, un modèle opérationnel crédible et une vision partagée de la création de valeur.",
+    "cta": "Ouvrir un dialogue stratégique",
+    "1": {
+      "title": "Comprendre",
+      "text": "Marché, opportunité, capacités et adéquation stratégique."
+    },
+    "2": {
+      "title": "Structurer",
+      "text": "Modèle commercial, responsabilités, gouvernance et accès au marché."
+    },
+    "3": {
+      "title": "Exécuter",
+      "text": "Mobiliser les entreprises, spécialistes, fournisseurs et décideurs adéquats."
+    },
+    "4": {
+      "title": "Développer",
+      "text": "Construire des relations reproductibles, des plateformes opérationnelles et une valeur durable."
+    }
+  },
+  "ribbon": {
+    "1": "Stratégie",
+    "2": "Développement",
+    "3": "Exécution",
+    "4": "Opérations"
+  },
+  "audiences": {
+    "kicker": "02 — NOS PARTENAIRES",
+    "title": "Une plateforme fondée sur des <em>relations qui font avancer.</em>",
+    "intro": "Nous accompagnons les décideurs qui recherchent plus qu’un fournisseur : un partenaire capable de relier opportunité, exécution locale et expertise internationale.",
+    "1": {
+      "title": "Investisseurs & Propriétaires",
+      "text": "Intelligence de marché, développement, exécution locale et voies stratégiques pour les opportunités d’investissement."
+    },
+    "2": {
+      "title": "Développeurs",
+      "text": "Développement intégré, ingénierie, achats, construction, aménagement et préparation opérationnelle."
+    },
+    "3": {
+      "title": "Partenaires internationaux",
+      "text": "Accès au marché, coentreprises, fabrication, transfert de technologie et croissance régionale."
+    },
+    "4": {
+      "title": "Opérateurs & Institutions",
+      "text": "Exploitation des actifs, services techniques, maintenance et accompagnement du cycle de vie."
+    }
+  },
+  "pathways": {
+    "kicker": "10 — COMMENCER UNE CONVERSATION",
+    "title": "Des objectifs différents.<br><em>Une plateforme connectée.</em>",
+    "intro": "Choisissez le type de projet qui correspond à votre besoin. Nous orienterons votre demande vers la bonne expertise et le bon marché.",
+    "1": {
+      "title": "Investissement & Accès au marché",
+      "text": "Découvrez les opportunités, l’accès aux marchés locaux et les structures d’investissement."
+    },
+    "2": {
+      "title": "Projets & Développement",
+      "text": "Échangez sur le développement, l’ingénierie, la construction, l’aménagement et les achats."
+    },
+    "3": {
+      "title": "Partenariats stratégiques",
+      "text": "Échangez avec nous sur les coentreprises, la fabrication, la technologie ou l’expansion régionale."
+    }
+  },
+  "why": {
+    "kicker": "03 — POURQUOI SURA",
+    "title": "Un avantage clair pour créer une <em>valeur durable.</em>",
+    "intro": "Nous réunissons compréhension du marché local, capacité d’exécution et relations internationales autour d’un objectif commercial clair.",
+    "items": [
+      [
+        "01",
+        "Intelligence locale",
+        "Nous partons du marché et de son environnement opérationnel pour fonder les décisions sur une compréhension concrète."
+      ],
+      [
+        "02",
+        "Capacité d’exécution",
+        "Nous transformons la stratégie en développement, ingénierie, réalisation, approvisionnement et opérations."
+      ],
+      [
+        "03",
+        "Connectivité internationale",
+        "Nous relions les opportunités syriennes aux partenaires, expertises, fournisseurs et marchés régionaux et internationaux."
+      ],
+      [
+        "04",
+        "Partenariats durables",
+        "Nous privilégions des relations conçues pour grandir, avec des rôles clairs, une valeur partagée et de la confiance."
+      ]
+    ]
+  },
+  "syria": {
+    "kicker": "04 — SYRIE · NOTRE MARCHÉ D’ORIGINE",
+    "title": "Partir de Syrie, <em>construire vers le monde.</em>",
+    "intro": "Nous considérons la Syrie comme notre marché d’origine et une plateforme de long terme pour le développement, la reconstruction, la construction, l’industrie et les services.",
+    "items": [
+      [
+        "01",
+        "Immobilier & développement",
+        "Opportunités résidentielles, commerciales, hôtelières et mixtes."
+      ],
+      [
+        "02",
+        "Infrastructures",
+        "Infrastructures, services essentiels, réseaux et travaux civils."
+      ],
+      [
+        "03",
+        "Hôtellerie & tourisme",
+        "Hôtels, resorts et projets d’hospitalité intégrés."
+      ],
+      [
+        "04",
+        "Industrie & fabrication",
+        "Projets industriels, fabrication, supply et transfert de technologies."
+      ],
+      [
+        "05",
+        "Agroalimentaire",
+        "Chaînes de valeur agricoles et alimentaires, production et transformation."
+      ],
+      [
+        "06",
+        "Énergie & services",
+        "Énergie, utilities et infrastructures techniques à long terme."
+      ],
+      [
+        "07",
+        "Projets commerciaux",
+        "Retail, bureaux, destinations d’affaires et développement."
+      ],
+      [
+        "08",
+        "Investissement & partenariats",
+        "Entrée de marché, joint-ventures, investissement et partenariats stratégiques."
+      ]
+    ]
+  },
+  "process": {
+    "kicker": "05 — NOTRE MÉTHODE",
+    "title": "De l’<em>opportunité</em> à la valeur.",
+    "intro": "Une approche claire pour accompagner investisseurs, partenaires et porteurs de projets de l’idée à l’exécution.",
+    "items": [
+      [
+        "01",
+        "Identifier",
+        "Définir l’opportunité, le marché et l’objectif commercial."
+      ],
+      [
+        "02",
+        "Évaluer",
+        "Analyser faisabilité, risques et capacités nécessaires."
+      ],
+      [
+        "03",
+        "Structurer",
+        "Définir le modèle de partenariat, les responsabilités et le cadre d’exécution."
+      ],
+      [
+        "04",
+        "Développer",
+        "Transformer l’opportunité en projet ou plateforme d’affaires."
+      ],
+      [
+        "05",
+        "Exécuter",
+        "Mobiliser entreprises, spécialistes, fournisseurs et ressources adaptés."
+      ],
+      [
+        "06",
+        "Développer",
+        "Construire des relations reproductibles, évolutives et créatrices de valeur."
+      ]
+    ]
+  },
+  "investors": {
+    "kicker": "06 — OPPORTUNITÉS D’INVESTISSEMENT",
+    "title": "Des opportunités avec un <em>potentiel de croissance.</em>",
+    "intro": "Un point d’entrée dédié aux investisseurs, propriétaires et partenaires stratégiques qui explorent le marché syrien, de nouveaux projets, des joint-ventures ou des plateformes évolutives.",
+    "cards": [
+      [
+        "01",
+        "Investissement & entrée de marché",
+        "Opportunités, accès local, structures adaptées et modèles de partenariat."
+      ],
+      [
+        "02",
+        "Développement de projets",
+        "Développement, ingénierie, approvisionnement et réalisation."
+      ],
+      [
+        "03",
+        "Joint-ventures",
+        "Relations de JV et modèles opérationnels entre organisations complémentaires."
+      ],
+      [
+        "04",
+        "Industrie & technologie",
+        "Relier fabricants et fournisseurs de technologies aux opportunités locales."
+      ]
+    ]
+  },
+  "projects": {
+    "kicker": "07 — PROJETS & OPPORTUNITÉS",
+    "title": "Transformer les opportunités en <em>projets évolutifs.</em>",
+    "intro": "Cette section deviendra une vitrine digitale des projets sélectionnés et opportunités d’investissement.",
+    "status": "Bientôt — les projets et opportunités approuvés seront ajoutés progressivement.",
+    "cta": "Discuter d’une opportunité →"
+  },
+  "leadership": {
+    "mohammadSyria": "Syria · +963 944 400 453"
+  },
+  "insights": {
+    "kicker": "08 — PERSPECTIVES SURA",
+    "title": "La perspective avant <em>l’action.</em>",
+    "intro": "Une bibliothèque en développement de perspectives de marché, de réflexion sur l’investissement et d’insights d’exécution, publiée au fil de la maturité de nos travaux.",
+    "cards": [
+      [
+        "01",
+        "Perspectives du marché syrien",
+        "Contexte marché, signaux sectoriels et observations pratiques pour investisseurs et partenaires."
+      ],
+      [
+        "02",
+        "Investissement & partenariats",
+        "Réflexions sur l’entrée de marché, les structures de partenariat, les JV et la création de valeur."
+      ],
+      [
+        "03",
+        "Développement & exécution",
+        "Perspectives issues du développement, de l’ingénierie, des achats, de la construction et des opérations."
+      ]
+    ],
+    "status": "Les perspectives et rapports seront publiés progressivement.",
+    "cta": "Échanger sur un sujet"
+  }
+}
